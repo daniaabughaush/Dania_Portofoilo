@@ -1,4 +1,2 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 6d6d2e6 (fix uned vlue)
+hello 
+this is my portofoilo
