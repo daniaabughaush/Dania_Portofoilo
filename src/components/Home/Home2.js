@@ -6,7 +6,6 @@ import Resume from "../Resume/ResumeNew"
 
 import {
   AiFillGithub,
-  AiOutlineTwitter,
   AiFillFacebook,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";

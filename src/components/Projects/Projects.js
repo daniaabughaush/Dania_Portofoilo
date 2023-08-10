@@ -5,9 +5,7 @@ import Particle from "../Particle";
 import test from "../../Assets/testproject.PNG";
 import golden from "../../Assets/golden.png";
 import hotel from "../../Assets/hotel.png";
-import chatify from "../../Assets/Projects/chatify.png";
-import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+
 import Resume from "../Resume/ResumeNew"
 
 function Projects() {
